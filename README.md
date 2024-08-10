@@ -10,7 +10,7 @@
 ### Como: O jogo sera desenvolvido usando a plataforma Unity.
 ### Quando: O jogo será lançado no dia 20 de agosto de 2024
 
-
-
+### Descrição: É um jogo metroidvania de plataforma com chefes bizarros.
+### Público Alvo: O público alvo são adultos e adolescentes que gostam de jogos desafiadores com vários chefes.
 
 
