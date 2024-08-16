@@ -12,5 +12,8 @@
 
 ### Descrição: É um jogo metroidvania de plataforma com chefes bizarros.
 ### Público Alvo: O público alvo são adultos e adolescentes que gostam de jogos desafiadores com vários chefes.
+### Ideia Refinada: O jogo é um metroidvania 2D em que o personagem luta com inimigos para avançar em seu caminho, em sua jornada ele encontra vários tipos de power ups que permitem que ele avance.
+
+
 
 
