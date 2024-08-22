@@ -15,6 +15,7 @@
 
 # Ideia Refinada: 
 ### O jogo é um metroidvania 2D em que o personagem luta com inimigos e chefes para avançar em seu caminho, em sua jornada ele encontra vários tipos de power ups que permitem que ele avance. A arte vai ser feita em pixel art, side-scrolling com a câmera focada no personagem.
+### Existem tipos de escolhas no jogo, o jogo tem vários power-ups que você pode escolher entre eles ao ganhar pontos.
 
 https://github.com/guilhermebastos2002/godot-projeto.git
 
